@@ -2,7 +2,7 @@
 - 👀 I’m interested in java、cloud etc.
 - 🌱 I’m currently learning flink and Mysql etc.
 - 💞️ I’m looking to collaborate on springboot-best-test
-- 📫 How to reach me lihouhua@netease.corp.com
+- 📫 How to reach me lihouhua@corp.netease.com
 
 <!---
 OriKey00/OriKey00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
